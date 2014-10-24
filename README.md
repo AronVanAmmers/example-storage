@@ -1,4 +1,4 @@
-# "Hello World!" contract
+# Example storage contract
 
 This repository contains a simple app to demonstrate the LocalStorage API. 
 
